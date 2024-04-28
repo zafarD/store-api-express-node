@@ -1,7 +1,5 @@
 
-## mongoose
-## node.js
-## express.js
+## Store API
 
 ### This project first create a database model with existing data.json file
 ### Query using different params
